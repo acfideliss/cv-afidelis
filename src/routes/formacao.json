@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Especialização em Gestão de Marketing",
+        "range": "Out 2019 - Em andamento",
+        "desc" : "Faculdade Frassinetti do Recife - FAFIRE"
+    },
+    {
+        "nome": "Tecnologia em Gestão de Turismo",
+        "range": "Ago 2017 - Out 2020",
+        "desc": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE."
+    },
+    {
+        "nome": "Bacharelado em Administração",
+        "range": "Ago 2017 - Out 2020",
+        "desc": "Universidade Federal Rural de Pernambuco - UFRPE."
+    }
+]
